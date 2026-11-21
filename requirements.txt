@@ -1,0 +1,10 @@
+certifi==2026.11.20
+charset-normalizer==3.5.2
+gtfs-realtime-bindings==3.0.0
+idna==3.20
+protobuf==7.36.2
+psycopg==3.3.9
+psycopg-binary==3.3.9
+python-dotenv==1.2.4
+requests==2.34.2
+urllib3==2.8.0
